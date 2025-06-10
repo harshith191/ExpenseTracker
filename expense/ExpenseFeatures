@@ -1,7 +1,3 @@
-# ExpenseTracker
-
-A simple Java-based command-line application to track personal income and expenses. This tool helps users record transactions, view monthly summaries, and save/load data from CSV files.
-
 ## Features
 
 - Record **income** and **expense** transactions
